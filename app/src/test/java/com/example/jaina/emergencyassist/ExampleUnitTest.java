@@ -1,4 +1,4 @@
-package com.example.myapplication.emergencyassist;
+package com.example.jaina.emergencyassist;
 
 import org.junit.Test;
 
